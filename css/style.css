@@ -13,17 +13,9 @@ header{
     
 }
 
-.contenitore-header{
-    display: flex;
-    max-height: 100%;
+.container{
+    max-width: 1200px;
+    margin: 0 auto;
 }
 
-.menu{
-    display: flex;
-    margin: 1em;
-    max-height: 100%;
-}
 
-.icone{
-    justify-content: end;
-}
